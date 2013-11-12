@@ -1,0 +1,13 @@
+{
+  "name": "dgrepl",
+  "version": "0.0.4",
+  "description": "hello egod this is doge",
+  "bin": {
+    "doge": "repl.js"
+  },
+  "author": "doge life",
+  "license": "DOGE-FREEDOME-LICENSE",
+  "dependencies": {
+    "dogescript": "~1.4.0"
+  }
+}
